@@ -1,4 +1,4 @@
-# rsDCCA
+# rtDCCA
 
 rtDCCA ("Real-time Detrended Cross Correlation Analysis") is an open-source MATLAB class that allows for  
 fast linear (pairwise) or parallel (matrix-wise) DCC analysis of multiple time series. The class also  
